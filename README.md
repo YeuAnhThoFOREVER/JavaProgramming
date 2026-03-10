@@ -1,2 +1,2 @@
 # JavaProgramming
-Java Programing week 2
+Java Programing class
